@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RovioRPGGame", "RovioRPGGame\RovioRPGGame.csproj", "{556EE196-242E-43B4-8868-47AC4313EDCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RovioRPGTests", "RovioRPGTests\RovioRPGTests.csproj", "{0401207D-6E6A-4169-B736-4A4B4963D4B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{556EE196-242E-43B4-8868-47AC4313EDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556EE196-242E-43B4-8868-47AC4313EDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556EE196-242E-43B4-8868-47AC4313EDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556EE196-242E-43B4-8868-47AC4313EDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0401207D-6E6A-4169-B736-4A4B4963D4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0401207D-6E6A-4169-B736-4A4B4963D4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0401207D-6E6A-4169-B736-4A4B4963D4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0401207D-6E6A-4169-B736-4A4B4963D4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F278B2-D3DB-4CE7-9395-3768E2E8A14B}
+	EndGlobalSection
+EndGlobal
